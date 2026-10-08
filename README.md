@@ -139,7 +139,7 @@ Learning. Building. Improving. 🚀
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Levidsg/Levidsg/output/github-contribution-grid-snake-dark.svg"/>
+![snake gif](https://github.com/Levidsg/Levidsg/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
