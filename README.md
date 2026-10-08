@@ -67,9 +67,9 @@ const Levi = {
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs&perline=5"/>
 
-
+<br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3"/>
-
+<br>
 
 <img src="https://skillicons.dev/icons?i=java,cpp&perline=2"/>
 
