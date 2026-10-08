@@ -65,7 +65,15 @@ const Levi = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cpp,nodejs,git,github,vscode&perline=10"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs&perline=5"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=java,cpp&perline=2"/>
 
 </div>
 
