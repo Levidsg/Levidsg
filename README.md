@@ -2,110 +2,113 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:1e1b4b,100:4f46e5&text=LEVI%20DE%20SOUSA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=818CF8&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;COMPUTER+SCIENCE+STUDENT;JAVASCRIPT+%7C+TYPESCRIPT;WEB+DEVELOPMENT;BUILDING+MY+WAY+INTO+TECH"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=818CF8&center=true&vCenter=true&width=900&lines=INICIANDO+SISTEMA...;ESTUDANTE+DE+CIÊNCIA+DA+COMPUTAÇÃO;JAVASCRIPT+%7C+TYPESCRIPT;DESENVOLVIMENTO+WEB;CONSTRUINDO+MINHA+CARREIRA+EM+TECH"/>
 
 </div>
 
 ---
 
-## ⚡ LEVI SYSTEM CORE
+## ⚡ LEVI DE SOUSA
 
 ```bash
 ╭────────────────────────────╮
 │       LEVI SYSTEM v1.0     │
 ╰────────────────────────────╯
 
-Initializing system...
+Inicializando sistema...
 
 ████████████████████ 100%
 
-✔ Developer detected
-✔ Learning mode activated
-✔ Code engine initialized
-✔ Projects loaded
+✔ Modo aprendizado ativado
+✔ Mecanismo de código inicializado
+✔ Projetos carregados
 
 STATUS: ONLINE 🚀
 ```
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
 ```javascript
 const Levi = {
 
-  name: "Levi de Sousa",
+  nome: "Levi de Sousa",
 
-  role: "Computer Science Student",
+  função: "Estudante de Ciência da Computação",
 
-  location: "Brazil 🇧🇷",
+  localização: "Brasil 🇧🇷",
 
-  education: "Computer Science @ URI",
+  formação: "Ciência da Computação @ URI",
 
-  currentlyLearning: [
+  estudandoAtualmente: [
     "JavaScript",
     "TypeScript",
-    "Web Development"
+    "Desenvolvimento Web"
   ],
 
-  tools: [
+  ferramentas: [
     "Git",
     "GitHub",
     "VS Code"
   ],
 
-  goal:
-  "Building a career in technology 🚀"
+  objetivo:
+  "Construir minha carreira na área de tecnologia 🚀"
 
 }
 ```
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cpp,nodejs,git,github,vscode&perline=10"/>
 
 </div>
 
 ---
 
-## 🚀 Projects
+## 🚀 Projetos
 
-| 🚀 Project          | 💡 Description                           |
-| ------------------- | ---------------------------------------- |
-| 💰 Personal Finance | Web application for financial management |
-| 📋 Church Agenda    | Digital organization system              |
-| 🚛 Truck Checklist  | Pre-trip vehicle inspection system       |
-| 🖼️ Image Blending  | Image processing and RGB manipulation    |
-| 🌐 Web Projects     | Experiments and projects while learning  |
+| 🚀 Projeto                | 💡 Descrição                                             |
+| ------------------------- | -------------------------------------------------------- |
+| 💰 Finanças Pessoais      | Aplicação web para gerenciamento financeiro              |
+| 📋 Agenda da Igreja       | Sistema digital de organização                           |
+| 🚛 Checklist de Caminhões | Sistema de inspeção pré-viagem                           |
+| 🖼️ Image Blending        | Processamento de imagens e manipulação RGB               |
+| 🌐 Projetos Web           | Experimentos e projetos desenvolvidos durante os estudos |
 
 ---
 
-## 🎯 Current Mission
+## 🎯 Missão Atual
 
 ```bash
-> Loading objectives...
+> Carregando objetivos...
 
 [██████████] JavaScript
 
 [████████░░] TypeScript
 
-[███████░░░] Web Development
+[███████░░░] Desenvolvimento Web
 
 [██████░░░░] Git & GitHub
 
-[█████░░░░░] Backend Development
+[█████░░░░░] Java
+
+[████░░░░░░] C++
+
+[████░░░░░░] Node.js
 
 STATUS:
-Learning. Building. Improving. 🚀
+Aprendendo. Construindo. Evoluindo. 🚀
 ```
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -115,37 +118,9 @@ Learning. Building. Improving. 🚀
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Levidsg&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Levidsg&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
-## 🐍 Contribution Animation
-
-<div align="center">
-
-![snake gif](https://github.com/Levidsg/Levidsg/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 🌎 Connect With Me
+## 🌎 Conecte-se Comigo
 
 <div align="center">
 
@@ -160,13 +135,5 @@ Learning. Building. Improving. 🚀
 </div>
 
 ---
-
-<div align="center">
-
-### ⚡ "Learning today. Building tomorrow."
-
-<img src="https://komarev.com/ghpvc/?username=Levidsg&style=for-the-badge&color=4F46E5"/>
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:1e1b4b,100:4f46e5"/>
