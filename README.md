@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:1e1b4b,100:4f46e5&text=LEVI%20DE%20SOUSA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=818CF8&center=true&vCenter=true&width=900&lines=INICIANDO+SISTEMA...;ESTUDANTE+DE+CIÊNCIA+DA+COMPUTAÇÃO;JAVASCRIPT+%7C+TYPESCRIPT;DESENVOLVIMENTO+WEB;CONSTRUINDO+MINHA+CARREIRA+EM+TECH"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=818CF8&center=true&vCenter=true&width=900&lines=INICIANDO+SISTEMA...;ESTUDANTE+DE+CI%C3%8ANCIA+DA+COMPUTA%C3%87%C3%83O;JAVASCRIPT+%7C+TYPESCRIPT;DESENVOLVIMENTO+WEB;CONSTRUINDO+MINHA+CARREIRA+EM+TECH"/>
 
 </div>
 
